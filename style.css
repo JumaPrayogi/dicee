@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    font-size:16px;
+    font-family:"iosevka mayukai";
+    background-color: brown;
+}
+h1 {
+    margin:20px;
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:10em;
+    color:lightseagreen;
+}
+h1#result{
+    font-size:5em;
+    color:black;
+    margin:50px;
+    text-align:center;
+}
+
+table{
+    margin:0 auto;
+    font-size:2em;
+    color:burlywood;
+}
+.dice1 {
+    margin-right: 20px;
+}
+.dice1, .dice2{
+    margin-top:50px;
+}
+
+footer{
+    text-align: center;
+    font-size:1em;
+    margin-top:50px;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+}
